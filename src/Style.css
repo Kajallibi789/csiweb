@@ -456,3 +456,19 @@ footer .column i + i {
   transition: all 1.5s ease;
 }
 
+/*Prem*/
+.controls {
+  text-align: center;
+  font-size: x-large;
+}
+
+.controls button {
+  border: none;
+  border-radius: 50%;
+  width: 3%;
+}
+
+.fa-instagram {
+  font-size: 8rem;
+}
+/*Prem*/

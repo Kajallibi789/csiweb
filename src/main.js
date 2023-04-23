@@ -63,7 +63,13 @@ let slider = tns({
   "speed" : 300,
   "nav" : false,
   autoplay : true,
-  controls: false,
+  controls: true,
+
+  //Prem Modified
+  controlsPosition: "bottom",
+  controlsContainer: ".controls",
+  //Prem Modified
+
   autoplayButtonOutput : false,
   responsive:{
     1600:{

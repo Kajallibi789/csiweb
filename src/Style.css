@@ -455,3 +455,16 @@ footer .column i + i {
   z-index: 9999;
   transition: all 1.5s ease;
 }
+
+/*Prem*/
+.controls {
+  text-align: center;
+  font-size: x-large;
+}
+
+.controls button {
+  border: none;
+  border-radius: 50%;
+  width: 3%;
+}
+/*Prem*/
